@@ -1,5 +1,6 @@
 # print('Hi there')🙋‍♂️
-![MinionWoohooGIF](https://user-images.githubusercontent.com/108655043/177760406-17f4b33a-98f7-465e-91c0-022bc5c6c91b.gif)
+![SpongebobSquarepantsSunglassesGIF](https://user-images.githubusercontent.com/108655043/178454735-a64656dd-1d82-41a1-a90d-260a1f986170.gif)
+
 
 <!--
 **sunbongE/sunbongE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
