@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=&height=300&section=header&text=TaeHo%20GitHub&fontSize=90)
-[![sunbongE's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunbongE&show_icons=true&theme=cobalt)](https://github.com/sunbongE)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbongE&layout=compact">
+[![sunbongE's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunbongE&show_icons=true&theme=cobalt)](https://github.com/sunbongE)<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbongE&layout=compact">
 
 
 
