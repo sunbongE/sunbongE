@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=&height=300&section=header&text=TaeHo%20GitHub&fontSize=90)
 
-<div align="center" style='margin-bottom:10px;'>
+<div align="center">
     <h1> 💻stack</h1>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
@@ -15,6 +15,8 @@
 	<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white" />	<br>	
 </div>
+
+
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogh0175)](https://solved.ac/{handle})
 
