@@ -1,6 +1,6 @@
-# print('Hi there')🙋‍♂️
-![HiHelloGIF](https://user-images.githubusercontent.com/108655043/187030779-60c0d453-2aed-4654-9702-9ee0f4777447.gif)
 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=&height=300&section=header&text=TaeHo%20GitHub&fontSize=90)
+[![sunbongE's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunbongE&show_icons=true&theme=cobalt)](https://github.com/sunbongE)
 
 <!--
 **sunbongE/sunbongE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
