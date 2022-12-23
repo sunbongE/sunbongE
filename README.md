@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=&height=300&section=header&text=TaeHo%20GitHub&fontSize=90)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbongE&layout=compact"><br><br>[![Solved.ac
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbongE&layout=compact"><br>[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogh0175)](https://solved.ac/{handle})
 [![sunbongE's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunbongE&show_icons=true&theme=cobalt)](https://github.com/sunbongE)
 
