@@ -1,12 +1,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=&height=300&section=header&text=TaeHo%20GitHub&fontSize=90)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogh0175)](https://solved.ac/{handle})<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbongE&layout=compact"><br>
-
-[![sunbongE's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunbongE&show_icons=true&theme=cobalt)](https://github.com/sunbongE)
-
 
 <div align="center">
     <h1> 💻stack</h1>
@@ -22,6 +15,14 @@
 	<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white" />		
 </div>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogh0175)](https://solved.ac/{handle})<br>
+
+[![sunbongE's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunbongE&show_icons=true&theme=cobalt)](https://github.com/sunbongE)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbongE&layout=compact"><br>
+
+
 
 
 	
