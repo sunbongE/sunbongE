@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=&height=300&section=header&text=TaeHo%20GitHub&fontSize=90)
 
-<div align="center">
+<div align="center" style='margin-bottom:10px;'>
     <h1> 💻stack</h1>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
