@@ -14,7 +14,8 @@
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL?style=flat&logo=MySQL MySQL&logoColor=white" /><br>	
+	<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white" />
+	<br>	
 </div>
 
 
