@@ -4,8 +4,8 @@
 
 
 <h1> 💻stack</h1>
-<img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-43B02A?style=flat&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/SpringSecurity-43B02A?style=flat&logo=SpringSecurity&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-13aa52%234479A1?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-red?style=flat&logo=Redis S3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-grey?style=flat&logo=JPA&logoColor=white"/>
 		
 
